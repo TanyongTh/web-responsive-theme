@@ -1,1 +1,1 @@
-Demo: https://web-responsive-theme.herokuapp.com/
+Demo: https://thesetup-responsive.herokuapp.com
